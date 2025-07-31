@@ -50,3 +50,7 @@ El objetivo principal es **transformar imágenes satelitales sin procesar** en p
   - `matplotlib`
   - `rasterio`
 - **Google Colab** (entorno de ejecución)
+
+---
+
+📸 Para trabajar con las imágenes, descargar de la web de Copernicus.
